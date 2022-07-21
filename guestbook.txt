@@ -1,0 +1,9 @@
+
+y|y|y|Single|y
+y|y|y|Single|y
+x|x|x|Single|x
+x|x|x|Menikah|x
+r|r|r|Single|r
+r|r|r|Single|r
+k|k|k|Single|k
+k|k|k|Single|k
